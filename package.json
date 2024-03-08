@@ -1,0 +1,12 @@
+{
+  "name": "grade-asignment",
+  "version": "1.0.0",
+  "description": "I am student of Governor Sindh Information Technology Initiative and i make this Assignment on Typescript and Node Js which is provided from teachers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Syed Jalees Akbar Shah",
+  "license": "ISC"
+}
